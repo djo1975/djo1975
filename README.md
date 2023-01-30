@@ -20,4 +20,4 @@
   <p>
 </div> 
 
-⭐️ From [djo1975][https://github.com/djo1975]
+⭐️ From [https://github.com/djo1975]
