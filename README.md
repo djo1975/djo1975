@@ -21,8 +21,3 @@
 </div> 
 
 ⭐️ From [djo1975](https://github.com/djo1975)
-([https://www.example.com](https://www.canva.com/design/DAFZJG9xISY/Ex-n7fpQDuh__nnjj5TE3w/edit?utm_content=DAFZJG9xISY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-handshake Support
-handshake Contributions, fire issues, and moon_cake feature requests are most welcome!
-
-blue_heart If you like what i do, give me some star's and share with your friends!
