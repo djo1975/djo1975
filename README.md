@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Mladan Ilic 👋 </h1>
-<h3 align="center">🚀 Backend Developer | Rails Enthusiast | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Full-Stack Developer | Rails Enthusiast | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
